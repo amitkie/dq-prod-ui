@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dq-prod-ui/static/css/main.e1a3d881.css",
-    "main.js": "/dq-prod-ui/static/js/main.670a488a.js",
+    "main.js": "/dq-prod-ui/static/js/main.3df8c1bc.js",
     "static/js/453.6bf78889.chunk.js": "/dq-prod-ui/static/js/453.6bf78889.chunk.js",
     "static/media/Abouttool.png": "/dq-prod-ui/static/media/Abouttool.59009484c976d5736184.png",
     "static/media/kiesquare-logo-transparent.png": "/dq-prod-ui/static/media/kiesquare-logo-transparent.74855a64cc1618893417.png",
@@ -13,11 +13,11 @@
     "static/media/Kiesquare-white.png": "/dq-prod-ui/static/media/Kiesquare-white.d1ca2075c838aab4d562.png",
     "index.html": "/dq-prod-ui/index.html",
     "main.e1a3d881.css.map": "/dq-prod-ui/static/css/main.e1a3d881.css.map",
-    "main.670a488a.js.map": "/dq-prod-ui/static/js/main.670a488a.js.map",
+    "main.3df8c1bc.js.map": "/dq-prod-ui/static/js/main.3df8c1bc.js.map",
     "453.6bf78889.chunk.js.map": "/dq-prod-ui/static/js/453.6bf78889.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e1a3d881.css",
-    "static/js/main.670a488a.js"
+    "static/js/main.3df8c1bc.js"
   ]
 }
