@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dq-prod-ui/static/css/main.e1a3d881.css",
+    "main.js": "/dq-prod-ui/static/js/main.cdd7d313.js",
+    "static/js/453.6bf78889.chunk.js": "/dq-prod-ui/static/js/453.6bf78889.chunk.js",
+    "static/media/Abouttool.png": "/dq-prod-ui/static/media/Abouttool.59009484c976d5736184.png",
+    "static/media/kiesquare-logo-transparent.png": "/dq-prod-ui/static/media/kiesquare-logo-transparent.74855a64cc1618893417.png",
+    "static/media/DroidSans-webfont.ttf": "/dq-prod-ui/static/media/DroidSans-webfont.b4610a9a846152a8f491.ttf",
+    "static/media/DroidSans-Bold-webfont.ttf": "/dq-prod-ui/static/media/DroidSans-Bold-webfont.8e1f1f7fefeeffbc389f.ttf",
+    "static/media/dq-logo.svg": "/dq-prod-ui/static/media/dq-logo.1b5bf354305be11d30c58d180d587886.svg",
+    "static/media/DroidSans-Bold-webfont.woff": "/dq-prod-ui/static/media/DroidSans-Bold-webfont.e8d9f10014fe5c804b3c.woff",
+    "static/media/DroidSans-webfont.woff": "/dq-prod-ui/static/media/DroidSans-webfont.2a1fe3984373d75d0145.woff",
+    "static/media/Kiesquare-white.png": "/dq-prod-ui/static/media/Kiesquare-white.d1ca2075c838aab4d562.png",
+    "index.html": "/dq-prod-ui/index.html",
+    "main.e1a3d881.css.map": "/dq-prod-ui/static/css/main.e1a3d881.css.map",
+    "main.cdd7d313.js.map": "/dq-prod-ui/static/js/main.cdd7d313.js.map",
+    "453.6bf78889.chunk.js.map": "/dq-prod-ui/static/js/453.6bf78889.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1a3d881.css",
+    "static/js/main.cdd7d313.js"
+  ]
+}
